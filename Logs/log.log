@@ -1,0 +1,5 @@
+2025-01-07 12:45:22,732 | INFO | genpass | Password generated successfully.
+2025-01-07 12:45:22,733 | INFO | genpass | Password complexity checked successfully: Strong.
+2025-01-07 12:45:22,735 | INFO | encryptpass | Password encrypted
+2025-01-07 12:45:43,417 | INFO | firebase | Password details saved to Firebase in the 'passwords' collection.
+2025-01-07 12:45:46,709 | INFO | root | Exiting the application. Goodbye!
