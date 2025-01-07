@@ -69,7 +69,7 @@ To run the program, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/passwordGenerator.git
+    git clone https://github.com/methedjangoguy/passwordGenerator.git
     cd passwordGenerator
     ```
 
